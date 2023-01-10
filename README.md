@@ -14,3 +14,4 @@ Thinkspace is just another minimalist Jekyll theme which is best suit for techni
 
 ![THE-Spellchecker](assets/images/author.png)
 ![THE-Spellchecker](assets/images/author.png)
+![THE-Spellchecker](assets/images/author.png)
