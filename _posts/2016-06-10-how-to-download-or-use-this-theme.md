@@ -19,6 +19,6 @@ keywords: "dummy content"
 
 If you want to use this theme as a project page blog, you don't need to rename the theme repo into `your_username.github.io`.
 
-All you need to do, open `_config.yml` file, change `baseurl` to your project name which contains this theme, e.g. `baseurl: "/myproject"`.
+All you need to do, open `_config.yml` file, change `baseball` to your project name which contains this theme, e.g. `baseball: "/project"`.
 
 #### Cheers!
